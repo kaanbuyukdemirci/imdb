@@ -1,0 +1,5 @@
+/.venv
+data/raw/
+data/processed/filter?_output.csv
+data/processed/filter7_better_output.csv
+data/processed/filter4_fail_output.csv
